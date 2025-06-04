@@ -7,7 +7,7 @@
 - 🌱 I’m exploring **AI, Data Science**, and **LLM-powered tools**
 - 🤖 Recent Projects: NLP Chatbots, Rule Validators, Time Series Forecasting
 - 📫 Reach me at: **[alysameh2002gmail.com](mailto:alysameh2002gmail.com)** 
-- 💼 LinkedIn: [Ali Sameh](https://www.linkedin.com/in/ali-sameh-77376622b/)
+- 💼 LinkedIn: [Ali Sameh](https://www.linkedin.com/in/ali-abdelrhman-77376622b/)
 
 ---
 
