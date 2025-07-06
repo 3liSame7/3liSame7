@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3lisame7&label=Profile%20views&color=0e75b6&style=flat" alt="3lisame7" /> </p>
 
-- 🔭 I’m currently working at **Giza Systems**
+- 🔭 I’m currently working at **Silverkey Technologies**
 - 🌱 I’m exploring **AI, Data Science**, and **LLM-powered tools**
 - 🤖 Recent Projects: NLP Chatbots, Rule Validators, Time Series Forecasting
 - 📫 Reach me at: **[alysameh2002gmail.com](mailto:alysameh2002gmail.com)** 
