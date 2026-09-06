@@ -39,4 +39,4 @@
 ---
 
 ### 🧠 Fun Fact
-> I love building intelligent systems that simplify complex tasks — from chatbots to time-series pipelines.
+- I love building intelligent systems that simplify complex tasks — from chatbots to time-series pipelines.
